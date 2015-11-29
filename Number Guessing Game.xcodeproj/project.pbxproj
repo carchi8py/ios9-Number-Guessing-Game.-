@@ -14,6 +14,7 @@
 		2737835F1C0BAFB100327CE9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2737835D1C0BAFB100327CE9 /* LaunchScreen.storyboard */; };
 		2737836A1C0BAFB100327CE9 /* Number_Guessing_GameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 273783691C0BAFB100327CE9 /* Number_Guessing_GameTests.swift */; };
 		273783751C0BAFB100327CE9 /* Number_Guessing_GameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 273783741C0BAFB100327CE9 /* Number_Guessing_GameUITests.swift */; };
+		273783831C0BB09700327CE9 /* whatisinyourmind.png in Resources */ = {isa = PBXBuildFile; fileRef = 273783821C0BB09700327CE9 /* whatisinyourmind.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		273783701C0BAFB100327CE9 /* Number Guessing GameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Number Guessing GameUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		273783741C0BAFB100327CE9 /* Number_Guessing_GameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Number_Guessing_GameUITests.swift; sourceTree = "<group>"; };
 		273783761C0BAFB100327CE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		273783821C0BB09700327CE9 /* whatisinyourmind.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whatisinyourmind.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		273783531C0BAFB100327CE9 /* Number Guessing Game */ = {
 			isa = PBXGroup;
 			children = (
+				273783821C0BB09700327CE9 /* whatisinyourmind.png */,
 				273783541C0BAFB100327CE9 /* AppDelegate.swift */,
 				273783561C0BAFB100327CE9 /* ViewController.swift */,
 				273783581C0BAFB100327CE9 /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2737835F1C0BAFB100327CE9 /* LaunchScreen.storyboard in Resources */,
+				273783831C0BB09700327CE9 /* whatisinyourmind.png in Resources */,
 				2737835C1C0BAFB100327CE9 /* Assets.xcassets in Resources */,
 				2737835A1C0BAFB100327CE9 /* Main.storyboard in Resources */,
 			);
